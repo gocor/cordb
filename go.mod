@@ -1,4 +1,4 @@
-module gitlab.com/gocor/cordb
+module github.com/gocor/cordb
 
 go 1.16
 
